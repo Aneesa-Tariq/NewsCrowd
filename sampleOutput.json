@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+      {
+        "source": {
+          "id": "news24",
+          "name": "News24"
+        },
+        "author": "sport",
+        "title": "'Killer Miller': Proteas batting ace holds record he would prefer not to have",
+        "description": "Proteas batting ace David Miller holds an international cricket record he would prefer not to have.",
+        "url": "https://www.news24.com/sport/cricket/proteas/killer-miller-proteas-batting-ace-holds-record-he-would-prefer-not-to-have-20230926",
+        "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/8586/51f46ef892fd4e6bb57cf288361c74d5.jpg",
+        "publishedAt": "2023-09-26T12:01:26",
+        "content": "\u003Cul\u003E\u003Cli\u003EDavid Miller will be a vital player for South Africa at the upcoming Cricket World Cup.\u003C/li\u003E\u003Cli\u003EThe big-hitting batsman has played 274 white-ball games for the Proteas, but never a Test.\u003C/li\u003E\u2026 [+3610 chars]"
+      },
+      {
+        "source": {
+          "id": "news24",
+          "name": "News24"
+        },
+        "author": "sport",
+        "title": "Maverick De Kock set for international farewell at World Cup: 'I'd like to tick off an ICC event'",
+        "description": "Quinton de Kock is a cricketing maverick who enjoys nothing more than his time away from the game by going fishing and playing golf, and at the age of 30 reckons he has served his time in the international arena.",
+        "url": "https://www.news24.com/sport/cricket/proteas/maverick-de-kock-set-for-international-farewell-at-world-cup-id-like-to-tick-off-an-icc-event-20230926",
+        "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/9366/e5f09d4f97e349b092e3967409d43b14.jpg",
+        "publishedAt": "2023-09-26T10:01:15",
+        "content": "\u003Cul\u003E\u003Cli\u003EProteas ace Quinton de Kock will retire from ODI cricket after the World Cup in India.\u003C/li\u003E\u003Cli\u003EThe 30-year-old, who already quit Test cricket in 2022, will focus exclusively on T20 cricket.\u003C/\u2026 [+4281 chars]"
+      },
+      {
+        "source": {
+          "id": "al-jazeera-english",
+          "name": "Al Jazeera English"
+        },
+        "author": "Hafsa Adil",
+        "title": "Security issues hit Pakistan\u2019s ICC Cricket World Cup warm-up match in India",
+        "description": "Indian board says Pakistan\u2019s match to be played behind closed doors in Hyderabad due to persisting security concerns.",
+        "url": "http://www.aljazeera.com/sports/2023/9/26/security-issues-hit-pakistans-cricket-world-cup-warm-up-match-in-hyderabad",
+        "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/09/ap23245458505846__1_-1_7202-1695711470.jpg?resize=1200%2C675",
+        "publishedAt": "2023-09-26T09:03:33Z",
+        "content": "Pakistans warm-up match against New Zealand ahead of the ICC Cricket World Cup 2023 will be played behind closed doors, the Indian cricket board, hosts of the mega event, says as security concerns an\u2026 [+3480 chars]"
+      },
+      {
+        "source": {
+          "id": "espn-cric-info",
+          "name": "ESPN Cric Info"
+        },
+        "author": null,
+        "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+        "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+        "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+        "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+        "publishedAt": "2020-04-27T11:41:47Z",
+        "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det\u2026 [+1506 chars]"
+      },
+      {
+        "source": {
+          "id": "espn-cric-info",
+          "name": "ESPN Cric Info"
+        },
+        "author": null,
+        "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+        "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+        "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+        "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+        "publishedAt": "2020-03-30T15:26:05Z",
+        "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried\u2026 [+6823 chars]"
+      }
+    ]
+  }
